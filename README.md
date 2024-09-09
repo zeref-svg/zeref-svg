@@ -50,21 +50,11 @@
 
 ---
 
-## 🏆 شارات التقدير والإنجازات:
-- **Contributions**: أكثر من 1000 مساهمة خلال العام.
-- **Top Languages**: JavaScript هي اللغة التي أعمل بها كثيراً.
-- **Commit Everyday**: أؤمن بالالتزام والـCommits المستمر يجعل مشاريعي قوية.
-- **Project X**: المشروع الذي سيفاجئ الجميع قريباً! 🚀
-
----
-
 ## ⚙️ التقنيات التي أستخدمها:
 
 ### أدوات التطوير:
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
