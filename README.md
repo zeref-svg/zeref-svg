@@ -3,61 +3,79 @@
 ![Welcome GIF](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)
 
 ## من أنا؟ 🤔
-أنا **ZEREF**، مطور بوتات ومواقع بخبرة سنتين! 🤖 مهووس بالتقنية وأحب أن أجعل الأكواد تتحدث بنفسها! هنا بعض من أعمالي المذهلة:
+أنا **ZEREF**، مطور بوتات ومواقع بخبرة سنتين! 🤖  
+أعشق البرمجة وأحول الأكواد إلى حلول مبتكرة. أعمل على مشاريع متطورة في الذكاء الاصطناعي وتطوير البوتات.
 
 ![Me GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
-## مشاريعي 💼✨
-| المشروع       | الوصف                      | السنة      |
-|---------------|----------------------------|------------|
-| **NATSU-V1**  | اول مشاريعي 🦸‍♂️        | 2022-2025  |
-| **ZEREF-AI**  | موقع AI من اقوى مشاريعي 🤖  | 2024-2025  |
-| **OBITO-V1**  | احدث بوتاتي 💬🔥 | 2024-2025  |
+---
 
-![Projects GIF](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+## 💼 مشاريعي 💼✨
+| المشروع       | الوصف                          | السنة      |
+|---------------|---------------------------------|------------|
+| **NATSU-V1**  | أول مشاريعي، بوت يعتمد على AI   🦸‍♂️ | 2022-2025  |
+| **ZEREF-AI**  | أقوى مشاريع الـAI للتفاعل الذكي 🤖  | 2024-2025  |
+| **OBITO-V1**  | أحدث بوتاتي 💬🔥 | 2024-2025  |
+| **Project-X** | مشروع مستقبلي تحت التطوير 🚀    | 2025       |
 
-## لغاتي وخبراتي 💻🔥
+---
 
-### JavaScript
-![JavaScript GIF](https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif)
+## 🔥 المهارات التقنية 💻
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### HTML
-![HTML GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-### CSS
-![CSS GIF](https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif)
-
-### Hacking
-![Hacking GIF](https://media1.tenor.com/m/wF5RiCnfj34AAAAC/work-computer.gif)
-
-## Badges وخبراتي 🔖
-![Badges GIF](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
+---
 
 ## 📊 الإحصائيات الخاصة بحسابي على GitHub:
-
 ### عدد زيارات ملفي الشخصي 👀:
 ![Profile Views](https://komarev.com/ghpvc/?username=zeref-svg&color=blue)
 
-### إحصائيات حسابي:
+### 🔥 إحصائيات حسابي التفصيلية:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeref-svg&show_icons=true&theme=radical)
 
-### اللغات الأكثر استخداماً:
+### أكثر اللغات استخداماً:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeref-svg&layout=compact&theme=radical)
 
 ### شارات الإنجازات 🎖️:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zeref-svg&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zeref-svg&theme=radical&no-bg=true&no-frame=true)
 
-### النشاط الأسبوعي 💼:
+### النشاط الأسبوعي 📊:
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=zeref-svg&theme=react-dark&hide_border=true&area=true)
 
-## تواصل معي 📬
+### عدد الـCommits اليومي 🚀:
+![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=zeref-svg&theme=radical&fire=orange&ring=red)
+
+---
+
+## 🏆 شارات التقدير والإنجازات:
+- **Contributions**: أكثر من 1000 مساهمة خلال العام.
+- **Top Languages**: JavaScript هي اللغة التي أعمل بها كثيراً.
+- **Commit Everyday**: أؤمن بالالتزام والـCommits المستمر يجعل مشاريعي قوية.
+- **Project X**: المشروع الذي سيفاجئ الجميع قريباً! 🚀
+
+---
+
+## ⚙️ التقنيات التي أستخدمها:
+
+### أدوات التطوير:
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📞 تواصل معي
 📞 الهاتف: +201004779310  
 📧 البريد الإلكتروني: supermahmoud18@email.com  
 
 ![Contact GIF](https://media1.tenor.com/m/Q6rgr_3z9W0AAAAC/kiss.gif)
 
-> ملاحظة: لا تنسوا ⭐ لمشاريعي لتشجيعي على المزيد من الإبداع! 😉
-
 ---
+
+> **ملاحظة:** لا تنسوا دعم مشاريعي بنجمة ⭐ لتشجيعي على مزيد من الإبداع! 😉
 
 ![Goodbye GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
