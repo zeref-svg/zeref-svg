@@ -1,58 +1,71 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>عالمي التقني</title>
+</head>
+<body style="text-align: center; font-family: Arial, sans-serif;">
+    
+    <h1>أهلاً وسهلاً بكم في عالمي التقني! 👋🔥</h1>
+    <img src="https://media.giphy.com/media/fxsqOYnIMEefC/giphy.gif" alt="Welcome GIF">
 
+    <h2>من أنا؟ 🤔</h2>
+    <p>أنا <strong>ZEREF</strong>، مطور بوتات ومواقع بخبرة سنتين! 🤖 مهووس بالتقنية وأحب أن أجعل الأكواد تتحدث بنفسها!</p>
+    <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Me GIF">
 
-# أهلاً وسهلاً بكم في عالمي التقني! 👋🔥
+    <h2>مشاريعي 💼✨</h2>
+    <table border="1" style="margin: 0 auto;">
+        <tr>
+            <th>المشروع</th>
+            <th>الوصف</th>
+            <th>السنة</th>
+        </tr>
+        <tr>
+            <td><strong>NATSU-V1</strong></td>
+            <td>اول مشاريعي 🦸‍♂️</td>
+            <td>2022-2025</td>
+        </tr>
+        <tr>
+            <td><strong>ZEREF-AI</strong></td>
+            <td>موقع AI من اقوى مشاريعي 🤖</td>
+            <td>2024-2025</td>
+        </tr>
+        <tr>
+            <td><strong>OBITO-V3</strong></td>
+            <td>احدث بوتاتي 💬🔥</td>
+            <td>2024-2025</td>
+        </tr>
+    </table>
+    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Projects GIF">
+    <img src="https://media.giphy.com/media/Ll0jnPa6IS8eI/giphy.gif" alt="Projects GIF 2">
 
-![Welcome GIF](https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif)
+    <h2>المهارات البرمجية 💻🔥</h2>
 
-## من أنا؟ 🤔
-أنا **ZEREF**، مطور بوتات ومواقع بخبرة سنتين! 🤖 مهووس بالتقنية وأحب أن أجعل الأكواد تتحدث بنفسها! هنا بعض من أعمالي المذهلة:
+    <h3>JavaScript</h3>
+    <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" alt="JavaScript GIF">
 
-![Me GIF](https://media.giphy.com/media/3o6vXLxQg4gnmXb9QA/giphy.gif)
+    <h3>HTML</h3>
+    <img src="https://media.giphy.com/media/3ohhws9bKSAjmVbz3O/giphy.gif" alt="HTML GIF">
 
-## مشاريعي 💼✨
-| المشروع       | الوصف                      | السنة      |
-|---------------|----------------------------|------------|
-| **NATSU-V1**  | اول مشاريعي 🦸‍♂️        | 2022-2025  |
-| **ZEREF-AI**  | موقع AI من اقوى مشاريعي 🤖  | 2024-2025  |
-| **OBITO-V3**  | احدث بوتاتي 💬🔥 | 2024-2025  |
+    <h3>CSS</h3>
+    <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="CSS GIF">
 
-![Projects GIF 1](https://media.giphy.com/media/3o7aD6ed75jeDpSkDA/giphy.gif)
-![Projects GIF 2](https://media.giphy.com/media/3o7TKtaZvhJrW6e9Sg/giphy.gif)
-![Projects GIF 3](https://media.giphy.com/media/xT0xet3pUwct9Dhbry/giphy.gif)
+    <h3>Hacking</h3>
+    <img src="https://media.giphy.com/media/hW4EyPYEI2h6E/giphy.gif" alt="Hacking GIF">
 
-## المهارات البرمجية 💻🔥
+    <h3>Vandal</h3>
+    <img src="https://media.giphy.com/media/3o7bu57lYhUEFiYDSM/giphy.gif" alt="Vandal GIF">
 
-### JavaScript
-![JavaScript GIF 1](https://media.giphy.com/media/3o7TKtaZvhJrW6e9Sg/giphy.gif)
-![JavaScript GIF 2](https://media.giphy.com/media/l0K4Gkq5eWz0h9FzK/giphy.gif)
+    <h2>Badges وخبراتي 🔖</h2>
+    <img src="https://media.giphy.com/media/3o7TKtdTnu7h3T0ufK/giphy.gif" alt="Badges GIF">
+    <img src="https://media.giphy.com/media/xT0GqJr06ADxRXG0rO/giphy.gif" alt="Badges GIF 2">
 
-### HTML
-![HTML GIF 1](https://media.giphy.com/media/l4FGriKp8vX9HBCx6/giphy.gif)
-![HTML GIF 2](https://media.giphy.com/media/3o7TKtaZvhJrW6e9Sg/giphy.gif)
+    <h2>تواصل معي 📬</h2>
+    <p>📞 الهاتف: +201004779310</p>
+    <p>📧 البريد الإلكتروني: supermahmoud18@email.com</p>
+    <img src="https://media.giphy.com/media/26uf9QPzzlKPvQG5C/giphy.gif" alt="Contact GIF">
 
-### CSS
-![CSS GIF 1](https://media.giphy.com/media/3o7TKtaZvhJrW6e9Sg/giphy.gif)
-![CSS GIF 2](https://media.giphy.com/media/l4FGriKp8vX9HBCx6/giphy.gif)
-
-### Hacking
-![Hacking GIF 1](https://media.giphy.com/media/3o6gE3TEbY7xwCZyRc/giphy.gif)
-![Hacking GIF 2](https://media.giphy.com/media/3o6ZsT4qgTtoQEv2F2/giphy.gif)
-
-### Vandal
-![Vandal GIF 1](https://media.giphy.com/media/3o6gE3TEbY7xwCZyRc/giphy.gif)
-![Vandal GIF 2](https://media.giphy.com/media/3o6ZsT4qgTtoQEv2F2/giphy.gif)
-
-![Skills GIF](https://media.giphy.com/media/xT0xet3pUwct9Dhbry/giphy.gif)
-
-## Badges وخبراتي 🔖
-![Badges GIF 1](https://media.giphy.com/media/xT0GqJr06ADxRXG0rO/giphy.gif)
-![Badges GIF 2](https://media.giphy.com/media/26gssqZ3rT6FEnAkA/giphy.gif)
-
-## تواصل معي 📬
-📞 الهاتف: +201004779310  
-📧 البريد الإلكتروني: supermahmoud18@email.com  
-
-![Contact GIF 1](https://media.giphy.com/media/3o7TKtaZvhJrW6e9Sg/giphy.gif)
-![Contact GIF 2](https://media.giphy.com/media/xT0xet3pUwct9Dhbry/giphy.gif)
-
-ملاحظة: لا تنسوا ⭐ لمشاريعي لتشجيعي على المزيد من الإبداع! 😉
+    <p>ملاحظة: لا تنسوا ⭐ لمشاريعي لتشجيعي على المزيد من الإبداع! 😉</p>
+</body>
+</html>
