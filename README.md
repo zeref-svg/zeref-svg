@@ -30,9 +30,6 @@
 ### Hacking
 ![Hacking GIF](https://media1.tenor.com/m/wF5RiCnfj34AAAAC/work-computer.gif)
 
-### Vandal
-![Vandal GIF](https://media.giphy.com/media/3o7527pa7qs9kCG78A/giphy.gif)
-
 ## Badges وخبراتي 🔖
 ![Badges GIF](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
 
@@ -40,6 +37,6 @@
 📞 الهاتف: +201004779310  
 📧 البريد الإلكتروني: supermahmoud18@email.com  
 
-![Contact GIF](https://media.giphy.com/media/1Bekc3mWbbMb5lFLfy/giphy.gif)
+![Contact GIF](https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8)
 
 > ملاحظة: لا تنسوا ⭐ لمشاريعي لتشجيعي على المزيد من الإبداع! 😉
