@@ -33,6 +33,23 @@
 ## Badges وخبراتي 🔖
 ![Badges GIF](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
 
+## 📊 الإحصائيات الخاصة بحسابي على GitHub:
+
+### عدد زيارات ملفي الشخصي 👀:
+![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&color=blue)
+
+### إحصائيات حسابي:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+
+### اللغات الأكثر استخداماً:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+
+### شارات الإنجازات 🎖️:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=USERNAME&theme=radical)
+
+### النشاط الأسبوعي 💼:
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark&hide_border=true&area=true)
+
 ## تواصل معي 📬
 📞 الهاتف: +201004779310  
 📧 البريد الإلكتروني: supermahmoud18@email.com  
@@ -40,3 +57,7 @@
 ![Contact GIF](https://media1.tenor.com/m/Q6rgr_3z9W0AAAAC/kiss.gif)
 
 > ملاحظة: لا تنسوا ⭐ لمشاريعي لتشجيعي على المزيد من الإبداع! 😉
+
+---
+
+![Goodbye GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
