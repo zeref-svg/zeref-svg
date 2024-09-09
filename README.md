@@ -37,6 +37,6 @@
 📞 الهاتف: +201004779310  
 📧 البريد الإلكتروني: supermahmoud18@email.com  
 
-![Contact GIF](https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8)
+![Contact GIF](https://media1.tenor.com/m/Q6rgr_3z9W0AAAAC/kiss.gif)
 
 > ملاحظة: لا تنسوا ⭐ لمشاريعي لتشجيعي على المزيد من الإبداع! 😉
