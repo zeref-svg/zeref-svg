@@ -28,7 +28,7 @@
 ![CSS GIF](https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif)
 
 ### Hacking
-![Hacking GIF](https://giphy.com/gifs/hacker-hacking-binary-V4NSR1NG2p0KeJJyr5)
+![Hacking GIF](https://media1.tenor.com/m/wF5RiCnfj34AAAAC/work-computer.gif)
 
 ### Vandal
 ![Vandal GIF](https://media.giphy.com/media/3o7527pa7qs9kCG78A/giphy.gif)
