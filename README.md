@@ -36,19 +36,19 @@
 ## 📊 الإحصائيات الخاصة بحسابي على GitHub:
 
 ### عدد زيارات ملفي الشخصي 👀:
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=zeref-svg&color=blue)
 
 ### إحصائيات حسابي:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeref-svg&show_icons=true&theme=radical)
 
 ### اللغات الأكثر استخداماً:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeref-svg&layout=compact&theme=radical)
 
 ### شارات الإنجازات 🎖️:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=USERNAME&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zeref-svg&theme=radical)
 
 ### النشاط الأسبوعي 💼:
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark&hide_border=true&area=true)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=zeref-svg&theme=react-dark&hide_border=true&area=true)
 
 ## تواصل معي 📬
 📞 الهاتف: +201004779310  
